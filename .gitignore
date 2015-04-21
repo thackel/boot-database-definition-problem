@@ -1,0 +1,13 @@
+*.hprof*
+ajcore*
+.project
+.classpath
+.settings
+.idea
+*.log
+target
+.springBeans
+*.iml
+*.ipr
+*.iws
+.factorypath
